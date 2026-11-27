@@ -3,27 +3,19 @@ import math
 from pathlib import Path
 from collections import defaultdict
 import matplotlib.pyplot as plt
-def haversine(lat1, lon1, lat2, lon2):
-    earth_radius = 6371000
-    lat1 = math.radians(lat1)
-    lat2 = math.radians(lat2)
-    delta_lat = math.radians(lat2 - lat1)
-    delta_lon = math.radians(lon2 - lon1)
-    a = (
-        math.sin(delta_lat / 2) ** 2
-        + math.cos(lat1) * math.cos(lat2)
-        * math.sin(delta_lon / 2) ** 2
-    )
-    return 2 * earth_radius * math.atan2(
-        math.sqrt(a),
-        math.sqrt(1 - a)
-    )
+
+def get_distance(lat1, lon1, lat2, lon2):
+    dx = (lat2 - lat1) * 111000
+    dy = (lon2 - lon1) * 96000
+    return math.sqrt(dx**2 + dy**2)
+
 def coordinate_key(lon, lat):
     return (round(lat, 6), round(lon, 6))
+
 def load_geojson_graph(filepath=None):
     if filepath is None:
         project_dir = Path(__file__).resolve().parent.parent
-        filepath = project_dir / "data" / "tagamoa.geojson"
+        filepath = project_dir / "data" / "raw" / "tagamoa.geojson"
     with open(filepath, "r", encoding="utf-8") as file:
         data = json.load(file)
     roads = []
@@ -117,7 +109,7 @@ def load_geojson_graph(filepath=None):
             for j in range(len(road_section) - 1):
                 lon1, lat1 = road_section[j]
                 lon2, lat2 = road_section[j + 1]
-                distance += haversine(
+                distance += get_distance(
                     lat1, lon1, lat2, lon2
                 )
             geometry = [
