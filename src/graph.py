@@ -29,14 +29,27 @@ def load_geojson_graph(filepath=None):
     roads = []
     connections = defaultdict(set)
     roads_at_point = defaultdict(set)
+    NON_CAR_HIGHWAYS = {
+        "footway",
+        "pedestrian",
+        "cycleway",
+        "steps",
+        "path",
+        "bridleway",
+        "corridor",
+    }
+
     for road_id, feature in enumerate(data["features"]):
         geometry = feature.get("geometry")
         if not geometry or geometry["type"] != "LineString":
             continue
+        properties = feature.get("properties") or {}
+        highway_type = str(properties.get("highway", "")).strip().lower()
+        if highway_type in NON_CAR_HIGHWAYS:
+            continue
         coordinates = geometry["coordinates"]
         if len(coordinates) < 2:
             continue
-        properties = feature.get("properties") or {}
         road_name = (
             properties.get("name:en")
             or properties.get("name")
