@@ -1,0 +1,4362 @@
+[
+  {
+    "id": 0,
+    "from": 328,
+    "to": 318,
+    "weight": 46.57,
+    "name": "Street 35",
+    "oneway": true
+  },
+  {
+    "id": 1,
+    "from": 318,
+    "to": 338,
+    "weight": 111.25,
+    "name": "Street 35",
+    "oneway": true
+  },
+  {
+    "id": 8,
+    "from": 318,
+    "to": 344,
+    "weight": 50.95,
+    "name": "Al Shahid Moustafa Zaid Street",
+    "oneway": true
+  },
+  {
+    "id": 2,
+    "from": 338,
+    "to": 342,
+    "weight": 8.32,
+    "name": "Street 35",
+    "oneway": true
+  },
+  {
+    "id": 36,
+    "from": 338,
+    "to": 329,
+    "weight": 67.53,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 3,
+    "from": 342,
+    "to": 382,
+    "weight": 61.81,
+    "name": "Street 35",
+    "oneway": true
+  },
+  {
+    "id": 35,
+    "from": 342,
+    "to": 361,
+    "weight": 52.24,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 4,
+    "from": 382,
+    "to": 385,
+    "weight": 22.09,
+    "name": "Street 35",
+    "oneway": true
+  },
+  {
+    "id": 5,
+    "from": 382,
+    "to": 373,
+    "weight": 98.78,
+    "name": "Al Shahid Moustafa Zaid Street",
+    "oneway": true
+  },
+  {
+    "id": 6,
+    "from": 373,
+    "to": 361,
+    "weight": 15.25,
+    "name": "Al Shahid Moustafa Zaid Street",
+    "oneway": true
+  },
+  {
+    "id": 511,
+    "from": 373,
+    "to": 381,
+    "weight": 61.55,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 7,
+    "from": 361,
+    "to": 344,
+    "weight": 16.41,
+    "name": "Al Shahid Moustafa Zaid Street",
+    "oneway": true
+  },
+  {
+    "id": 34,
+    "from": 344,
+    "to": 338,
+    "weight": 60.31,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 9,
+    "from": 93,
+    "to": 35,
+    "weight": 102.14,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 17,
+    "from": 93,
+    "to": 98,
+    "weight": 7.62,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 18,
+    "from": 93,
+    "to": 83,
+    "weight": 20.6,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 10,
+    "from": 35,
+    "to": 34,
+    "weight": 7.26,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 353,
+    "from": 35,
+    "to": 24,
+    "weight": 9.57,
+    "name": "Street 27",
+    "oneway": true
+  },
+  {
+    "id": 11,
+    "from": 34,
+    "to": 2,
+    "weight": 191.01,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 55,
+    "from": 34,
+    "to": 38,
+    "weight": 4.23,
+    "name": "Street 27",
+    "oneway": true
+  },
+  {
+    "id": 12,
+    "from": 78,
+    "to": 74,
+    "weight": 22.03,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 314,
+    "from": 78,
+    "to": 123,
+    "weight": 37.86,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 13,
+    "from": 74,
+    "to": 68,
+    "weight": 3.59,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 14,
+    "from": 68,
+    "to": 59,
+    "weight": 14.38,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 349,
+    "from": 68,
+    "to": 40,
+    "weight": 18.56,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 15,
+    "from": 59,
+    "to": 60,
+    "weight": 13.11,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 16,
+    "from": 60,
+    "to": 73,
+    "weight": 8.42,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 57,
+    "from": 60,
+    "to": 19,
+    "weight": 144.68,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 388,
+    "from": 98,
+    "to": 121,
+    "weight": 13.76,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 19,
+    "from": 83,
+    "to": 66,
+    "weight": 51.73,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 370,
+    "from": 83,
+    "to": 101,
+    "weight": 13.17,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 20,
+    "from": 66,
+    "to": 62,
+    "weight": 8.01,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 267,
+    "from": 66,
+    "to": 89,
+    "weight": 20.86,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 21,
+    "from": 62,
+    "to": 56,
+    "weight": 14.4,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 460,
+    "from": 62,
+    "to": 80,
+    "weight": 18.49,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 22,
+    "from": 56,
+    "to": 53,
+    "weight": 5.7,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 457,
+    "from": 56,
+    "to": 70,
+    "weight": 9.34,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 23,
+    "from": 53,
+    "to": 50,
+    "weight": 14.83,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 77,
+    "from": 53,
+    "to": 39,
+    "weight": 10.26,
+    "name": "Al Shahid Mohamed Al Sharqawi Street",
+    "oneway": true
+  },
+  {
+    "id": 452,
+    "from": 53,
+    "to": 67,
+    "weight": 10.35,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 24,
+    "from": 50,
+    "to": 87,
+    "weight": 117.17,
+    "name": "Gaafar Al Sadeq Street",
+    "oneway": true
+  },
+  {
+    "id": 449,
+    "from": 50,
+    "to": 81,
+    "weight": 32.88,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 25,
+    "from": 87,
+    "to": 120,
+    "weight": 69.1,
+    "name": "Al Shahid Mohamed Abd Al Karim Street",
+    "oneway": true
+  },
+  {
+    "id": 26,
+    "from": 120,
+    "to": 124,
+    "weight": 14.66,
+    "name": "Al Shahid Mohamed Abd Al Karim Street",
+    "oneway": true
+  },
+  {
+    "id": 445,
+    "from": 120,
+    "to": 99,
+    "weight": 17.61,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 27,
+    "from": 124,
+    "to": 129,
+    "weight": 15.24,
+    "name": "Al Shahid Mohamed Abd Al Karim Street",
+    "oneway": true
+  },
+  {
+    "id": 441,
+    "from": 124,
+    "to": 150,
+    "weight": 29.76,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 28,
+    "from": 129,
+    "to": 133,
+    "weight": 3.44,
+    "name": "Al Shahid Mohamed Abd Al Karim Street",
+    "oneway": true
+  },
+  {
+    "id": 358,
+    "from": 129,
+    "to": 122,
+    "weight": 9.83,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 29,
+    "from": 133,
+    "to": 154,
+    "weight": 23.33,
+    "name": "Al Shahid Mohamed Abd Al Karim Street",
+    "oneway": true
+  },
+  {
+    "id": 253,
+    "from": 133,
+    "to": 145,
+    "weight": 41.84,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 30,
+    "from": 154,
+    "to": 256,
+    "weight": 200.1,
+    "name": "Al Shahid Mohamed Abd Al Karim Street",
+    "oneway": true
+  },
+  {
+    "id": 443,
+    "from": 154,
+    "to": 150,
+    "weight": 24.27,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 31,
+    "from": 260,
+    "to": 265,
+    "weight": 10.65,
+    "name": "Al Buzjani Street",
+    "oneway": true
+  },
+  {
+    "id": 394,
+    "from": 260,
+    "to": 295,
+    "weight": 53.88,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 32,
+    "from": 265,
+    "to": 270,
+    "weight": 37.34,
+    "name": "Al Buzjani Street",
+    "oneway": true
+  },
+  {
+    "id": 530,
+    "from": 265,
+    "to": 241,
+    "weight": 27.44,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 33,
+    "from": 270,
+    "to": 296,
+    "weight": 117.2,
+    "name": "Al Buzjani Street",
+    "oneway": true
+  },
+  {
+    "id": 37,
+    "from": 331,
+    "to": 342,
+    "weight": 66.56,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 527,
+    "from": 331,
+    "to": 329,
+    "weight": 7.36,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 38,
+    "from": 224,
+    "to": 227,
+    "weight": 16.75,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 88,
+    "from": 224,
+    "to": 268,
+    "weight": 25.15,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 39,
+    "from": 227,
+    "to": 226,
+    "weight": 4.07,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 40,
+    "from": 226,
+    "to": 223,
+    "weight": 5.52,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 481,
+    "from": 226,
+    "to": 237,
+    "weight": 60.0,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 41,
+    "from": 223,
+    "to": 212,
+    "weight": 4.9,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 45,
+    "from": 223,
+    "to": 208,
+    "weight": 31.81,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 42,
+    "from": 212,
+    "to": 211,
+    "weight": 15.48,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 43,
+    "from": 211,
+    "to": 216,
+    "weight": 10.69,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 110,
+    "from": 211,
+    "to": 191,
+    "weight": 27.16,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 44,
+    "from": 216,
+    "to": 224,
+    "weight": 3.61,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 46,
+    "from": 208,
+    "to": 189,
+    "weight": 91.64,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 483,
+    "from": 208,
+    "to": 232,
+    "weight": 58.74,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 47,
+    "from": 189,
+    "to": 180,
+    "weight": 23.0,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 94,
+    "from": 189,
+    "to": 192,
+    "weight": 13.43,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 48,
+    "from": 180,
+    "to": 172,
+    "weight": 31.11,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 508,
+    "from": 180,
+    "to": 176,
+    "weight": 4.15,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 49,
+    "from": 172,
+    "to": 173,
+    "weight": 28.3,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 309,
+    "from": 172,
+    "to": 169,
+    "weight": 4.08,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 50,
+    "from": 156,
+    "to": 169,
+    "weight": 12.81,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 391,
+    "from": 156,
+    "to": 173,
+    "weight": 19.59,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 51,
+    "from": 169,
+    "to": 176,
+    "weight": 31.18,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 52,
+    "from": 176,
+    "to": 212,
+    "weight": 145.21,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 53,
+    "from": 1,
+    "to": 22,
+    "weight": 55.04,
+    "name": "Street 27",
+    "oneway": true
+  },
+  {
+    "id": 54,
+    "from": 22,
+    "to": 34,
+    "weight": 10.33,
+    "name": "Street 27",
+    "oneway": true
+  },
+  {
+    "id": 348,
+    "from": 22,
+    "to": 24,
+    "weight": 6.5,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 56,
+    "from": 6,
+    "to": 27,
+    "weight": 134.13,
+    "name": "Abou Hurairah Street",
+    "oneway": true
+  },
+  {
+    "id": 58,
+    "from": 19,
+    "to": 8,
+    "weight": 92.07,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 351,
+    "from": 19,
+    "to": 3,
+    "weight": 46.5,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 59,
+    "from": 12,
+    "to": 30,
+    "weight": 115.12,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 60,
+    "from": 30,
+    "to": 37,
+    "weight": 25.38,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 252,
+    "from": 30,
+    "to": 49,
+    "weight": 18.53,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 61,
+    "from": 37,
+    "to": 47,
+    "weight": 28.61,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 333,
+    "from": 37,
+    "to": 52,
+    "weight": 12.51,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 62,
+    "from": 47,
+    "to": 73,
+    "weight": 70.59,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 337,
+    "from": 47,
+    "to": 69,
+    "weight": 20.72,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 63,
+    "from": 294,
+    "to": 312,
+    "weight": 70.04,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 519,
+    "from": 294,
+    "to": 291,
+    "weight": 5.77,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 64,
+    "from": 312,
+    "to": 319,
+    "weight": 22.03,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 65,
+    "from": 319,
+    "to": 335,
+    "weight": 107.31,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 509,
+    "from": 319,
+    "to": 315,
+    "weight": 6.1,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 66,
+    "from": 335,
+    "to": 341,
+    "weight": 23.88,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 543,
+    "from": 335,
+    "to": 355,
+    "weight": 16.78,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 67,
+    "from": 341,
+    "to": 347,
+    "weight": 39.0,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 68,
+    "from": 347,
+    "to": 354,
+    "weight": 15.3,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 409,
+    "from": 347,
+    "to": 343,
+    "weight": 6.6,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 69,
+    "from": 354,
+    "to": 356,
+    "weight": 8.88,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 400,
+    "from": 354,
+    "to": 392,
+    "weight": 175.32,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 70,
+    "from": 289,
+    "to": 272,
+    "weight": 53.28,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 322,
+    "from": 289,
+    "to": 292,
+    "weight": 5.3,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 71,
+    "from": 272,
+    "to": 269,
+    "weight": 31.47,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 180,
+    "from": 272,
+    "to": 219,
+    "weight": 56.61,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 72,
+    "from": 269,
+    "to": 262,
+    "weight": 40.1,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 73,
+    "from": 262,
+    "to": 253,
+    "weight": 22.46,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 182,
+    "from": 262,
+    "to": 218,
+    "weight": 69.76,
+    "name": "Al Shahid Mohamed Khamis Street",
+    "oneway": true
+  },
+  {
+    "id": 74,
+    "from": 253,
+    "to": 242,
+    "weight": 86.57,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 75,
+    "from": 242,
+    "to": 243,
+    "weight": 10.85,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 76,
+    "from": 243,
+    "to": 200,
+    "weight": 327.85,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 154,
+    "from": 243,
+    "to": 249,
+    "weight": 0.28,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 78,
+    "from": 39,
+    "to": 26,
+    "weight": 11.22,
+    "name": "Al Shahid Mohamed Al Sharqawi Street",
+    "oneway": true
+  },
+  {
+    "id": 247,
+    "from": 39,
+    "to": 17,
+    "weight": 73.71,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 79,
+    "from": 26,
+    "to": 16,
+    "weight": 23.76,
+    "name": "Al Shahid Mohamed Al Sharqawi Street",
+    "oneway": true
+  },
+  {
+    "id": 87,
+    "from": 26,
+    "to": 28,
+    "weight": 6.31,
+    "name": "Al Shahid Shokry Habib Street",
+    "oneway": true
+  },
+  {
+    "id": 80,
+    "from": 16,
+    "to": 14,
+    "weight": 26.76,
+    "name": "Al Shahid Mohamed Al Sharqawi Street",
+    "oneway": true
+  },
+  {
+    "id": 259,
+    "from": 16,
+    "to": 20,
+    "weight": 10.81,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 81,
+    "from": 14,
+    "to": 9,
+    "weight": 40.01,
+    "name": "Al Shahid Mohamed Al Sharqawi Street",
+    "oneway": true
+  },
+  {
+    "id": 257,
+    "from": 14,
+    "to": 18,
+    "weight": 8.17,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 82,
+    "from": 9,
+    "to": 5,
+    "weight": 33.83,
+    "name": "Al Shahid Mohamed Al Sharqawi Street",
+    "oneway": true
+  },
+  {
+    "id": 83,
+    "from": 9,
+    "to": 15,
+    "weight": 3.19,
+    "name": "Al Shahid Shokry Habib Street",
+    "oneway": true
+  },
+  {
+    "id": 355,
+    "from": 5,
+    "to": 0,
+    "weight": 28.68,
+    "name": "Street 27",
+    "oneway": true
+  },
+  {
+    "id": 84,
+    "from": 15,
+    "to": 25,
+    "weight": 29.73,
+    "name": "Al Shahid Shokry Habib Street",
+    "oneway": true
+  },
+  {
+    "id": 263,
+    "from": 15,
+    "to": 18,
+    "weight": 35.0,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 85,
+    "from": 25,
+    "to": 31,
+    "weight": 20.6,
+    "name": "Al Shahid Shokry Habib Street",
+    "oneway": true
+  },
+  {
+    "id": 258,
+    "from": 25,
+    "to": 18,
+    "weight": 8.79,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 86,
+    "from": 31,
+    "to": 28,
+    "weight": 40.56,
+    "name": "Al Shahid Shokry Habib Street",
+    "oneway": true
+  },
+  {
+    "id": 260,
+    "from": 31,
+    "to": 20,
+    "weight": 12.31,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 261,
+    "from": 28,
+    "to": 20,
+    "weight": 28.26,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 89,
+    "from": 268,
+    "to": 271,
+    "weight": 17.25,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 296,
+    "from": 268,
+    "to": 248,
+    "weight": 65.48,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 90,
+    "from": 271,
+    "to": 277,
+    "weight": 7.94,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 91,
+    "from": 277,
+    "to": 301,
+    "weight": 52.55,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 214,
+    "from": 277,
+    "to": 284,
+    "weight": 10.92,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 92,
+    "from": 323,
+    "to": 274,
+    "weight": 211.14,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 397,
+    "from": 323,
+    "to": 333,
+    "weight": 21.18,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 93,
+    "from": 274,
+    "to": 271,
+    "weight": 10.54,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 211,
+    "from": 274,
+    "to": 258,
+    "weight": 27.38,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 95,
+    "from": 192,
+    "to": 236,
+    "weight": 45.53,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 308,
+    "from": 192,
+    "to": 190,
+    "weight": 8.2,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 96,
+    "from": 236,
+    "to": 247,
+    "weight": 19.58,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 307,
+    "from": 236,
+    "to": 238,
+    "weight": 8.14,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 97,
+    "from": 247,
+    "to": 279,
+    "weight": 47.35,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 297,
+    "from": 247,
+    "to": 234,
+    "weight": 71.9,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 98,
+    "from": 279,
+    "to": 285,
+    "weight": 7.49,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 202,
+    "from": 279,
+    "to": 263,
+    "weight": 88.48,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 99,
+    "from": 288,
+    "to": 286,
+    "weight": 2.2,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 208,
+    "from": 288,
+    "to": 305,
+    "weight": 49.34,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 100,
+    "from": 286,
+    "to": 238,
+    "weight": 59.7,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 201,
+    "from": 286,
+    "to": 279,
+    "weight": 15.37,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 101,
+    "from": 238,
+    "to": 229,
+    "weight": 6.01,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 102,
+    "from": 229,
+    "to": 190,
+    "weight": 46.01,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 295,
+    "from": 229,
+    "to": 230,
+    "weight": 79.43,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 103,
+    "from": 190,
+    "to": 180,
+    "weight": 1.39,
+    "name": "Al Shahid Moures Qalds Street",
+    "oneway": true
+  },
+  {
+    "id": 104,
+    "from": 215,
+    "to": 196,
+    "weight": 27.97,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 376,
+    "from": 215,
+    "to": 199,
+    "weight": 16.99,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 105,
+    "from": 196,
+    "to": 194,
+    "weight": 19.63,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 506,
+    "from": 196,
+    "to": 195,
+    "weight": 4.82,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 106,
+    "from": 194,
+    "to": 191,
+    "weight": 28.03,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 111,
+    "from": 194,
+    "to": 216,
+    "weight": 43.15,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 107,
+    "from": 191,
+    "to": 178,
+    "weight": 40.42,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 108,
+    "from": 178,
+    "to": 141,
+    "weight": 140.32,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 507,
+    "from": 178,
+    "to": 174,
+    "weight": 5.69,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 109,
+    "from": 141,
+    "to": 142,
+    "weight": 31.33,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 223,
+    "from": 141,
+    "to": 138,
+    "weight": 3.3,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 112,
+    "from": 108,
+    "to": 85,
+    "weight": 27.03,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 113,
+    "from": 85,
+    "to": 41,
+    "weight": 142.84,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 246,
+    "from": 85,
+    "to": 51,
+    "weight": 41.54,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 114,
+    "from": 41,
+    "to": 32,
+    "weight": 20.33,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 496,
+    "from": 41,
+    "to": 21,
+    "weight": 8.72,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 115,
+    "from": 32,
+    "to": 29,
+    "weight": 7.67,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 124,
+    "from": 32,
+    "to": 21,
+    "weight": 11.66,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 116,
+    "from": 187,
+    "to": 161,
+    "weight": 60.85,
+    "name": "Al Shahid Shaaban Rezq Street",
+    "oneway": true
+  },
+  {
+    "id": 378,
+    "from": 187,
+    "to": 171,
+    "weight": 21.7,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 117,
+    "from": 161,
+    "to": 125,
+    "weight": 125.17,
+    "name": "Al Shahid Shaaban Rezq Street",
+    "oneway": true
+  },
+  {
+    "id": 406,
+    "from": 161,
+    "to": 158,
+    "weight": 3.87,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 118,
+    "from": 153,
+    "to": 143,
+    "weight": 38.88,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 239,
+    "from": 153,
+    "to": 158,
+    "weight": 22.22,
+    "name": "Al Shahid Shaaban Rezq Street",
+    "oneway": true
+  },
+  {
+    "id": 119,
+    "from": 143,
+    "to": 46,
+    "weight": 75.84,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 478,
+    "from": 143,
+    "to": 132,
+    "weight": 37.78,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 120,
+    "from": 46,
+    "to": 45,
+    "weight": 3.08,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 471,
+    "from": 46,
+    "to": 132,
+    "weight": 81.88,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 121,
+    "from": 45,
+    "to": 42,
+    "weight": 3.36,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 464,
+    "from": 45,
+    "to": 48,
+    "weight": 16.84,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 122,
+    "from": 42,
+    "to": 36,
+    "weight": 5.2,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 465,
+    "from": 42,
+    "to": 48,
+    "weight": 17.47,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 123,
+    "from": 36,
+    "to": 32,
+    "weight": 5.12,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 402,
+    "from": 36,
+    "to": 55,
+    "weight": 59.94,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 125,
+    "from": 21,
+    "to": 13,
+    "weight": 43.96,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 126,
+    "from": 391,
+    "to": 369,
+    "weight": 73.08,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 127,
+    "from": 369,
+    "to": 365,
+    "weight": 5.16,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 128,
+    "from": 365,
+    "to": 341,
+    "weight": 42.44,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 135,
+    "from": 365,
+    "to": 363,
+    "weight": 7.57,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 129,
+    "from": 390,
+    "to": 368,
+    "weight": 65.76,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 130,
+    "from": 368,
+    "to": 358,
+    "weight": 13.31,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 427,
+    "from": 368,
+    "to": 371,
+    "weight": 28.61,
+    "name": "Al Shahid Abd Al Rahman Zariaa Street",
+    "oneway": true
+  },
+  {
+    "id": 131,
+    "from": 358,
+    "to": 350,
+    "weight": 7.03,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 132,
+    "from": 350,
+    "to": 351,
+    "weight": 105.33,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 498,
+    "from": 350,
+    "to": 348,
+    "weight": 7.29,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 133,
+    "from": 351,
+    "to": 360,
+    "weight": 26.85,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 425,
+    "from": 351,
+    "to": 366,
+    "weight": 17.0,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 134,
+    "from": 360,
+    "to": 364,
+    "weight": 14.51,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 420,
+    "from": 360,
+    "to": 370,
+    "weight": 11.63,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 136,
+    "from": 363,
+    "to": 359,
+    "weight": 14.63,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 541,
+    "from": 363,
+    "to": 367,
+    "weight": 5.04,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 137,
+    "from": 359,
+    "to": 348,
+    "weight": 159.01,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 138,
+    "from": 348,
+    "to": 388,
+    "weight": 109.36,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 419,
+    "from": 348,
+    "to": 334,
+    "weight": 65.03,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 139,
+    "from": 383,
+    "to": 380,
+    "weight": 34.29,
+    "name": "Al Shahid Abd Al Rahman Zariaa Street",
+    "oneway": true
+  },
+  {
+    "id": 140,
+    "from": 380,
+    "to": 371,
+    "weight": 58.95,
+    "name": "Al Shahid Abd Al Rahman Zariaa Street",
+    "oneway": true
+  },
+  {
+    "id": 426,
+    "from": 380,
+    "to": 366,
+    "weight": 21.13,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 428,
+    "from": 371,
+    "to": 358,
+    "weight": 15.31,
+    "name": "Al Shahid Abd Al Rahman Zariaa Street",
+    "oneway": true
+  },
+  {
+    "id": 141,
+    "from": 313,
+    "to": 302,
+    "weight": 72.91,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 325,
+    "from": 313,
+    "to": 316,
+    "weight": 3.45,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 142,
+    "from": 302,
+    "to": 299,
+    "weight": 8.52,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 143,
+    "from": 299,
+    "to": 275,
+    "weight": 119.63,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 283,
+    "from": 299,
+    "to": 304,
+    "weight": 4.9,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 144,
+    "from": 275,
+    "to": 273,
+    "weight": 10.17,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 302,
+    "from": 275,
+    "to": 250,
+    "weight": 1.62,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 145,
+    "from": 273,
+    "to": 245,
+    "weight": 297.64,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 156,
+    "from": 273,
+    "to": 280,
+    "weight": 0.33,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 146,
+    "from": 251,
+    "to": 283,
+    "weight": 258.13,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 147,
+    "from": 283,
+    "to": 282,
+    "weight": 26.73,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 312,
+    "from": 283,
+    "to": 290,
+    "weight": 12.67,
+    "name": "Al Shahid Ahmed Shehata Street",
+    "oneway": true
+  },
+  {
+    "id": 148,
+    "from": 282,
+    "to": 280,
+    "weight": 21.57,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 149,
+    "from": 280,
+    "to": 281,
+    "weight": 10.07,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 150,
+    "from": 281,
+    "to": 293,
+    "weight": 67.8,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 301,
+    "from": 281,
+    "to": 275,
+    "weight": 0.26,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 151,
+    "from": 293,
+    "to": 304,
+    "weight": 46.75,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 332,
+    "from": 293,
+    "to": 306,
+    "weight": 19.17,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 152,
+    "from": 304,
+    "to": 307,
+    "weight": 7.75,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 284,
+    "from": 304,
+    "to": 345,
+    "weight": 69.64,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 153,
+    "from": 307,
+    "to": 327,
+    "weight": 57.73,
+    "name": "Al Nobari Street",
+    "oneway": true
+  },
+  {
+    "id": 306,
+    "from": 307,
+    "to": 302,
+    "weight": 5.67,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 155,
+    "from": 249,
+    "to": 273,
+    "weight": 2.08,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 198,
+    "from": 249,
+    "to": 250,
+    "weight": 10.78,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 157,
+    "from": 352,
+    "to": 254,
+    "weight": 454.16,
+    "name": "Sibawayh Elmasry Street",
+    "oneway": true
+  },
+  {
+    "id": 286,
+    "from": 352,
+    "to": 362,
+    "weight": 11.5,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 158,
+    "from": 326,
+    "to": 290,
+    "weight": 19.98,
+    "name": "Al Shahid Ahmed Shehata Street",
+    "oneway": true
+  },
+  {
+    "id": 313,
+    "from": 290,
+    "to": 282,
+    "weight": 14.07,
+    "name": "Al Shahid Ahmed Shehata Street",
+    "oneway": true
+  },
+  {
+    "id": 159,
+    "from": 220,
+    "to": 221,
+    "weight": 5.77,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 160,
+    "from": 221,
+    "to": 213,
+    "weight": 11.41,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 185,
+    "from": 221,
+    "to": 235,
+    "weight": 98.01,
+    "name": "Ibn Hagar Al Asqalani Street",
+    "oneway": true
+  },
+  {
+    "id": 161,
+    "from": 213,
+    "to": 205,
+    "weight": 4.17,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 162,
+    "from": 205,
+    "to": 204,
+    "weight": 19.36,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 186,
+    "from": 205,
+    "to": 193,
+    "weight": 3.14,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 163,
+    "from": 204,
+    "to": 209,
+    "weight": 3.83,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 164,
+    "from": 210,
+    "to": 218,
+    "weight": 13.44,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 288,
+    "from": 210,
+    "to": 214,
+    "weight": 9.36,
+    "name": "Al Shahid Mohamed Khamis Street",
+    "oneway": true
+  },
+  {
+    "id": 165,
+    "from": 218,
+    "to": 217,
+    "weight": 2.3,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 166,
+    "from": 217,
+    "to": 207,
+    "weight": 12.7,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 282,
+    "from": 217,
+    "to": 269,
+    "weight": 89.36,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 167,
+    "from": 207,
+    "to": 201,
+    "weight": 2.41,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 168,
+    "from": 201,
+    "to": 203,
+    "weight": 22.36,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 173,
+    "from": 201,
+    "to": 185,
+    "weight": 32.91,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 169,
+    "from": 44,
+    "to": 139,
+    "weight": 263.96,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 170,
+    "from": 139,
+    "to": 159,
+    "weight": 26.14,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 347,
+    "from": 139,
+    "to": 157,
+    "weight": 7.43,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 171,
+    "from": 159,
+    "to": 188,
+    "weight": 36.18,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 172,
+    "from": 188,
+    "to": 203,
+    "weight": 17.79,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 344,
+    "from": 188,
+    "to": 222,
+    "weight": 59.68,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 174,
+    "from": 185,
+    "to": 168,
+    "weight": 23.52,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 179,
+    "from": 185,
+    "to": 170,
+    "weight": 68.73,
+    "name": "Street 16",
+    "oneway": true
+  },
+  {
+    "id": 175,
+    "from": 168,
+    "to": 86,
+    "weight": 123.23,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 176,
+    "from": 86,
+    "to": 77,
+    "weight": 25.83,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 336,
+    "from": 86,
+    "to": 69,
+    "weight": 19.78,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 177,
+    "from": 77,
+    "to": 72,
+    "weight": 25.32,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 338,
+    "from": 77,
+    "to": 65,
+    "weight": 12.76,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 178,
+    "from": 72,
+    "to": 23,
+    "weight": 113.95,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 251,
+    "from": 72,
+    "to": 49,
+    "weight": 19.13,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 181,
+    "from": 219,
+    "to": 207,
+    "weight": 9.13,
+    "name": "Al Motnby Street",
+    "oneway": true
+  },
+  {
+    "id": 544,
+    "from": 219,
+    "to": 198,
+    "weight": 69.16,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 183,
+    "from": 231,
+    "to": 222,
+    "weight": 43.42,
+    "name": "Ibn Hagar Al Asqalani Street",
+    "oneway": true
+  },
+  {
+    "id": 290,
+    "from": 231,
+    "to": 235,
+    "weight": 8.74,
+    "name": "Al Shahid Mohamed Khamis Street",
+    "oneway": true
+  },
+  {
+    "id": 184,
+    "from": 222,
+    "to": 213,
+    "weight": 51.9,
+    "name": "Ibn Hagar Al Asqalani Street",
+    "oneway": true
+  },
+  {
+    "id": 187,
+    "from": 193,
+    "to": 204,
+    "weight": 17.33,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 188,
+    "from": 193,
+    "to": 165,
+    "weight": 40.48,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 189,
+    "from": 165,
+    "to": 157,
+    "weight": 8.72,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 192,
+    "from": 165,
+    "to": 147,
+    "weight": 72.11,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 190,
+    "from": 157,
+    "to": 159,
+    "weight": 31.54,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 191,
+    "from": 209,
+    "to": 166,
+    "weight": 303.67,
+    "name": "Ibn Hagar Al Asqalani Street",
+    "oneway": true
+  },
+  {
+    "id": 193,
+    "from": 147,
+    "to": 136,
+    "weight": 41.07,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 195,
+    "from": 147,
+    "to": 167,
+    "weight": 26.48,
+    "name": "Abou Al Fadl Al Harthi Street",
+    "oneway": true
+  },
+  {
+    "id": 194,
+    "from": 136,
+    "to": 102,
+    "weight": 96.34,
+    "name": "Al Nawwy Street",
+    "oneway": true
+  },
+  {
+    "id": 346,
+    "from": 136,
+    "to": 162,
+    "weight": 21.95,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 196,
+    "from": 167,
+    "to": 197,
+    "weight": 42.51,
+    "name": "Abou Al Fadl Al Harthi Street",
+    "oneway": true
+  },
+  {
+    "id": 269,
+    "from": 167,
+    "to": 162,
+    "weight": 25.42,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 197,
+    "from": 206,
+    "to": 249,
+    "weight": 334.65,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 199,
+    "from": 250,
+    "to": 287,
+    "weight": 205.07,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 303,
+    "from": 250,
+    "to": 242,
+    "weight": 0.23,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 200,
+    "from": 295,
+    "to": 286,
+    "weight": 60.7,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 395,
+    "from": 295,
+    "to": 305,
+    "weight": 13.56,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 203,
+    "from": 263,
+    "to": 257,
+    "weight": 16.61,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 480,
+    "from": 263,
+    "to": 237,
+    "weight": 32.89,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 204,
+    "from": 257,
+    "to": 246,
+    "weight": 28.71,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 408,
+    "from": 257,
+    "to": 261,
+    "weight": 3.32,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 205,
+    "from": 258,
+    "to": 261,
+    "weight": 32.22,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 212,
+    "from": 258,
+    "to": 246,
+    "weight": 6.85,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 206,
+    "from": 261,
+    "to": 285,
+    "weight": 100.92,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 207,
+    "from": 285,
+    "to": 288,
+    "weight": 20.67,
+    "name": "Al Shahid Ahmed Metwali Street",
+    "oneway": true
+  },
+  {
+    "id": 209,
+    "from": 311,
+    "to": 284,
+    "weight": 29.24,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 417,
+    "from": 311,
+    "to": 301,
+    "weight": 42.39,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 210,
+    "from": 284,
+    "to": 274,
+    "weight": 7.56,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 215,
+    "from": 284,
+    "to": 297,
+    "weight": 62.67,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 213,
+    "from": 246,
+    "to": 227,
+    "weight": 14.18,
+    "name": "Ibn Al Magdy Street",
+    "oneway": true
+  },
+  {
+    "id": 216,
+    "from": 297,
+    "to": 303,
+    "weight": 26.7,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 491,
+    "from": 297,
+    "to": 308,
+    "weight": 14.95,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 217,
+    "from": 303,
+    "to": 309,
+    "weight": 24.95,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 484,
+    "from": 303,
+    "to": 310,
+    "weight": 11.99,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 218,
+    "from": 309,
+    "to": 333,
+    "weight": 83.2,
+    "name": "Al Shahid Abd Al Mohsen Omairh Street",
+    "oneway": true
+  },
+  {
+    "id": 485,
+    "from": 309,
+    "to": 322,
+    "weight": 16.45,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 219,
+    "from": 367,
+    "to": 375,
+    "weight": 9.79,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 539,
+    "from": 367,
+    "to": 369,
+    "weight": 7.44,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 220,
+    "from": 375,
+    "to": 378,
+    "weight": 7.52,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 221,
+    "from": 378,
+    "to": 389,
+    "weight": 74.86,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 422,
+    "from": 378,
+    "to": 376,
+    "weight": 21.05,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 222,
+    "from": 276,
+    "to": 270,
+    "weight": 64.21,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 529,
+    "from": 276,
+    "to": 265,
+    "weight": 26.89,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 225,
+    "from": 138,
+    "to": 148,
+    "weight": 40.15,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 224,
+    "from": 121,
+    "to": 138,
+    "weight": 10.88,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 389,
+    "from": 121,
+    "to": 142,
+    "weight": 23.78,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 226,
+    "from": 148,
+    "to": 151,
+    "weight": 12.79,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 235,
+    "from": 148,
+    "to": 115,
+    "weight": 39.28,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 227,
+    "from": 151,
+    "to": 174,
+    "weight": 89.77,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 228,
+    "from": 174,
+    "to": 195,
+    "weight": 87.2,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 229,
+    "from": 195,
+    "to": 199,
+    "weight": 40.13,
+    "name": "Abou Dawoud Al Zahery Street",
+    "oneway": true
+  },
+  {
+    "id": 230,
+    "from": 111,
+    "to": 119,
+    "weight": 5.52,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 231,
+    "from": 119,
+    "to": 125,
+    "weight": 7.15,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 238,
+    "from": 119,
+    "to": 153,
+    "weight": 99.68,
+    "name": "Al Shahid Shaaban Rezq Street",
+    "oneway": true
+  },
+  {
+    "id": 232,
+    "from": 125,
+    "to": 127,
+    "weight": 15.42,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 233,
+    "from": 127,
+    "to": 115,
+    "weight": 11.65,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 407,
+    "from": 127,
+    "to": 151,
+    "weight": 37.34,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 234,
+    "from": 115,
+    "to": 108,
+    "weight": 9.07,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 236,
+    "from": 4,
+    "to": 27,
+    "weight": 57.32,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 237,
+    "from": 27,
+    "to": 59,
+    "weight": 33.06,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 240,
+    "from": 158,
+    "to": 164,
+    "weight": 20.15,
+    "name": "Al Shahid Shaaban Rezq Street",
+    "oneway": true
+  },
+  {
+    "id": 241,
+    "from": 164,
+    "to": 171,
+    "weight": 58.38,
+    "name": "Al Shahid Shaaban Rezq Street",
+    "oneway": true
+  },
+  {
+    "id": 242,
+    "from": 11,
+    "to": 29,
+    "weight": 34.74,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 383,
+    "from": 11,
+    "to": 13,
+    "weight": 43.41,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 243,
+    "from": 29,
+    "to": 33,
+    "weight": 4.49,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 244,
+    "from": 33,
+    "to": 57,
+    "weight": 24.62,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 401,
+    "from": 33,
+    "to": 36,
+    "weight": 7.03,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 245,
+    "from": 57,
+    "to": 164,
+    "weight": 75.66,
+    "name": "Yehya Ibn Saeid Street",
+    "oneway": true
+  },
+  {
+    "id": 248,
+    "from": 57,
+    "to": 40,
+    "weight": 65.87,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 387,
+    "from": 51,
+    "to": 98,
+    "weight": 71.11,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 350,
+    "from": 40,
+    "to": 10,
+    "weight": 70.72,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 249,
+    "from": 104,
+    "to": 96,
+    "weight": 13.49,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 250,
+    "from": 104,
+    "to": 96,
+    "weight": 12.14,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 363,
+    "from": 104,
+    "to": 103,
+    "weight": 3.26,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 364,
+    "from": 104,
+    "to": 107,
+    "weight": 7.43,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 360,
+    "from": 96,
+    "to": 89,
+    "weight": 13.15,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 361,
+    "from": 96,
+    "to": 100,
+    "weight": 3.15,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 334,
+    "from": 49,
+    "to": 54,
+    "weight": 14.96,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 435,
+    "from": 145,
+    "to": 175,
+    "weight": 44.75,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 436,
+    "from": 145,
+    "to": 137,
+    "weight": 8.62,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 254,
+    "from": 140,
+    "to": 134,
+    "weight": 6.53,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 273,
+    "from": 140,
+    "to": 137,
+    "weight": 9.53,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 274,
+    "from": 140,
+    "to": 146,
+    "weight": 25.04,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 255,
+    "from": 134,
+    "to": 126,
+    "weight": 14.48,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 256,
+    "from": 126,
+    "to": 135,
+    "weight": 6.68,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 271,
+    "from": 135,
+    "to": 130,
+    "weight": 9.94,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 272,
+    "from": 135,
+    "to": 137,
+    "weight": 5.09,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 262,
+    "from": 18,
+    "to": 20,
+    "weight": 24.12,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 264,
+    "from": 122,
+    "to": 114,
+    "weight": 13.27,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 357,
+    "from": 122,
+    "to": 113,
+    "weight": 16.05,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 265,
+    "from": 114,
+    "to": 106,
+    "weight": 8.42,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 447,
+    "from": 114,
+    "to": 99,
+    "weight": 35.39,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 266,
+    "from": 106,
+    "to": 89,
+    "weight": 8.74,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 279,
+    "from": 106,
+    "to": 130,
+    "weight": 34.97,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 280,
+    "from": 106,
+    "to": 97,
+    "weight": 13.86,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 359,
+    "from": 89,
+    "to": 84,
+    "weight": 6.11,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 268,
+    "from": 181,
+    "to": 162,
+    "weight": 63.92,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 345,
+    "from": 162,
+    "to": 155,
+    "weight": 22.23,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 270,
+    "from": 128,
+    "to": 130,
+    "weight": 3.47,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 537,
+    "from": 146,
+    "to": 131,
+    "weight": 15.57,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 275,
+    "from": 116,
+    "to": 107,
+    "weight": 9.72,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 276,
+    "from": 107,
+    "to": 101,
+    "weight": 27.76,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 365,
+    "from": 107,
+    "to": 110,
+    "weight": 10.96,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 369,
+    "from": 101,
+    "to": 109,
+    "weight": 7.23,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 277,
+    "from": 117,
+    "to": 110,
+    "weight": 7.01,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 367,
+    "from": 117,
+    "to": 131,
+    "weight": 24.95,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 368,
+    "from": 117,
+    "to": 109,
+    "weight": 5.2,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 278,
+    "from": 110,
+    "to": 109,
+    "weight": 9.57,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 281,
+    "from": 97,
+    "to": 81,
+    "weight": 33.97,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 463,
+    "from": 97,
+    "to": 88,
+    "weight": 4.87,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 450,
+    "from": 81,
+    "to": 90,
+    "weight": 8.32,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 285,
+    "from": 345,
+    "to": 352,
+    "weight": 7.75,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 331,
+    "from": 345,
+    "to": 340,
+    "weight": 18.08,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 287,
+    "from": 362,
+    "to": 379,
+    "weight": 53.86,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 289,
+    "from": 214,
+    "to": 231,
+    "weight": 22.52,
+    "name": "Al Shahid Mohamed Khamis Street",
+    "oneway": true
+  },
+  {
+    "id": 343,
+    "from": 214,
+    "to": 202,
+    "weight": 30.3,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 291,
+    "from": 235,
+    "to": 253,
+    "weight": 37.11,
+    "name": "Al Shahid Mohamed Khamis Street",
+    "oneway": true
+  },
+  {
+    "id": 292,
+    "from": 287,
+    "to": 300,
+    "weight": 11.37,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 522,
+    "from": 287,
+    "to": 292,
+    "weight": 23.36,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 293,
+    "from": 298,
+    "to": 278,
+    "weight": 9.45,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 521,
+    "from": 298,
+    "to": 291,
+    "weight": 22.96,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 294,
+    "from": 325,
+    "to": 312,
+    "weight": 109.48,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 517,
+    "from": 325,
+    "to": 320,
+    "weight": 8.26,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 393,
+    "from": 230,
+    "to": 260,
+    "weight": 30.58,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 375,
+    "from": 248,
+    "to": 215,
+    "weight": 19.75,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 503,
+    "from": 248,
+    "to": 244,
+    "weight": 10.28,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 479,
+    "from": 234,
+    "to": 232,
+    "weight": 13.48,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 298,
+    "from": 183,
+    "to": 220,
+    "weight": 333.12,
+    "name": "Ibn Hagar Al Asqalani Street",
+    "oneway": true
+  },
+  {
+    "id": 299,
+    "from": 149,
+    "to": 168,
+    "weight": 63.58,
+    "name": "Street 16",
+    "oneway": true
+  },
+  {
+    "id": 316,
+    "from": 149,
+    "to": 163,
+    "weight": 18.73,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 300,
+    "from": 267,
+    "to": 362,
+    "weight": 453.44,
+    "name": "Sibawayh Elmasry Street",
+    "oneway": true
+  },
+  {
+    "id": 304,
+    "from": 384,
+    "to": 337,
+    "weight": 60.65,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 305,
+    "from": 337,
+    "to": 307,
+    "weight": 51.94,
+    "name": "Al Shahid Nabil Shokry Street",
+    "oneway": true
+  },
+  {
+    "id": 311,
+    "from": 337,
+    "to": 353,
+    "weight": 64.96,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 310,
+    "from": 357,
+    "to": 353,
+    "weight": 9.65,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 514,
+    "from": 357,
+    "to": 339,
+    "weight": 24.38,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 329,
+    "from": 353,
+    "to": 374,
+    "weight": 27.93,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 315,
+    "from": 123,
+    "to": 149,
+    "weight": 28.69,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 504,
+    "from": 123,
+    "to": 118,
+    "weight": 10.51,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 317,
+    "from": 163,
+    "to": 170,
+    "weight": 9.95,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 505,
+    "from": 163,
+    "to": 160,
+    "weight": 9.38,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 318,
+    "from": 170,
+    "to": 198,
+    "weight": 44.9,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 319,
+    "from": 198,
+    "to": 244,
+    "weight": 38.23,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 320,
+    "from": 244,
+    "to": 264,
+    "weight": 17.12,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 321,
+    "from": 264,
+    "to": 289,
+    "weight": 41.86,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 502,
+    "from": 264,
+    "to": 266,
+    "weight": 9.33,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 323,
+    "from": 292,
+    "to": 300,
+    "weight": 12.01,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 523,
+    "from": 292,
+    "to": 294,
+    "weight": 12.52,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 324,
+    "from": 300,
+    "to": 313,
+    "weight": 14.28,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 326,
+    "from": 316,
+    "to": 327,
+    "weight": 17.42,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 499,
+    "from": 316,
+    "to": 320,
+    "weight": 11.06,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 327,
+    "from": 327,
+    "to": 336,
+    "weight": 20.39,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 328,
+    "from": 336,
+    "to": 353,
+    "weight": 24.32,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 500,
+    "from": 336,
+    "to": 339,
+    "weight": 9.72,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 330,
+    "from": 374,
+    "to": 386,
+    "weight": 42.17,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 501,
+    "from": 374,
+    "to": 377,
+    "weight": 10.54,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 339,
+    "from": 52,
+    "to": 54,
+    "weight": 16.44,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 342,
+    "from": 52,
+    "to": 61,
+    "weight": 7.84,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 340,
+    "from": 54,
+    "to": 65,
+    "weight": 6.87,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 335,
+    "from": 61,
+    "to": 69,
+    "weight": 15.86,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 341,
+    "from": 61,
+    "to": 65,
+    "weight": 16.99,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 354,
+    "from": 24,
+    "to": 5,
+    "weight": 47.2,
+    "name": "Street 27",
+    "oneway": true
+  },
+  {
+    "id": 352,
+    "from": 43,
+    "to": 35,
+    "weight": 4.0,
+    "name": "Street 27",
+    "oneway": true
+  },
+  {
+    "id": 386,
+    "from": 43,
+    "to": 51,
+    "weight": 27.41,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 356,
+    "from": 240,
+    "to": 228,
+    "weight": 79.79,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 534,
+    "from": 228,
+    "to": 225,
+    "weight": 1.24,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 444,
+    "from": 113,
+    "to": 99,
+    "weight": 6.63,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 461,
+    "from": 84,
+    "to": 88,
+    "weight": 10.03,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 462,
+    "from": 84,
+    "to": 80,
+    "weight": 2.32,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 362,
+    "from": 100,
+    "to": 103,
+    "weight": 4.67,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 366,
+    "from": 100,
+    "to": 103,
+    "weight": 5.25,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 538,
+    "from": 131,
+    "to": 93,
+    "weight": 29.4,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 371,
+    "from": 225,
+    "to": 186,
+    "weight": 74.15,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 535,
+    "from": 225,
+    "to": 182,
+    "weight": 52.58,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 432,
+    "from": 186,
+    "to": 184,
+    "weight": 22.13,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 433,
+    "from": 186,
+    "to": 179,
+    "weight": 16.23,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 372,
+    "from": 291,
+    "to": 278,
+    "weight": 15.08,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 520,
+    "from": 291,
+    "to": 289,
+    "weight": 12.99,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 373,
+    "from": 278,
+    "to": 266,
+    "weight": 23.12,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 374,
+    "from": 266,
+    "to": 248,
+    "weight": 18.07,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 377,
+    "from": 199,
+    "to": 187,
+    "weight": 21.51,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 379,
+    "from": 171,
+    "to": 160,
+    "weight": 15.82,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 380,
+    "from": 160,
+    "to": 118,
+    "weight": 46.29,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 381,
+    "from": 118,
+    "to": 74,
+    "weight": 26.34,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 382,
+    "from": 7,
+    "to": 11,
+    "weight": 31.23,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 384,
+    "from": 13,
+    "to": 38,
+    "weight": 114.19,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 385,
+    "from": 38,
+    "to": 43,
+    "weight": 7.49,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 390,
+    "from": 142,
+    "to": 156,
+    "weight": 18.4,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 392,
+    "from": 173,
+    "to": 230,
+    "weight": 64.68,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 396,
+    "from": 305,
+    "to": 323,
+    "weight": 19.39,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 398,
+    "from": 333,
+    "to": 346,
+    "weight": 26.57,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 399,
+    "from": 346,
+    "to": 354,
+    "weight": 6.62,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 411,
+    "from": 346,
+    "to": 343,
+    "weight": 15.32,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 403,
+    "from": 55,
+    "to": 75,
+    "weight": 63.63,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 470,
+    "from": 55,
+    "to": 63,
+    "weight": 11.6,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 404,
+    "from": 75,
+    "to": 94,
+    "weight": 39.35,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 469,
+    "from": 75,
+    "to": 91,
+    "weight": 18.46,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 405,
+    "from": 94,
+    "to": 111,
+    "weight": 13.57,
+    "name": "Ali Ibn Al Madini Street",
+    "oneway": true
+  },
+  {
+    "id": 476,
+    "from": 94,
+    "to": 112,
+    "weight": 39.31,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 412,
+    "from": 343,
+    "to": 332,
+    "weight": 76.68,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 410,
+    "from": 349,
+    "to": 346,
+    "weight": 8.73,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 526,
+    "from": 349,
+    "to": 331,
+    "weight": 34.5,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 413,
+    "from": 332,
+    "to": 330,
+    "weight": 25.29,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 486,
+    "from": 332,
+    "to": 322,
+    "weight": 18.93,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 414,
+    "from": 330,
+    "to": 324,
+    "weight": 25.81,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 489,
+    "from": 330,
+    "to": 321,
+    "weight": 15.51,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 415,
+    "from": 324,
+    "to": 315,
+    "weight": 42.91,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 490,
+    "from": 324,
+    "to": 308,
+    "weight": 19.87,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 416,
+    "from": 315,
+    "to": 311,
+    "weight": 6.02,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 418,
+    "from": 301,
+    "to": 298,
+    "weight": 21.03,
+    "name": "Abd Al Hamid Al Kateb Street",
+    "oneway": true
+  },
+  {
+    "id": 516,
+    "from": 334,
+    "to": 325,
+    "weight": 25.97,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 424,
+    "from": 370,
+    "to": 376,
+    "weight": 5.08,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 421,
+    "from": 372,
+    "to": 366,
+    "weight": 21.16,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 423,
+    "from": 372,
+    "to": 376,
+    "weight": 15.56,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 429,
+    "from": 177,
+    "to": 182,
+    "weight": 34.12,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 430,
+    "from": 177,
+    "to": 179,
+    "weight": 10.75,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 431,
+    "from": 177,
+    "to": 175,
+    "weight": 7.18,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 536,
+    "from": 182,
+    "to": 146,
+    "weight": 46.64,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 434,
+    "from": 179,
+    "to": 175,
+    "weight": 3.56,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 437,
+    "from": 239,
+    "to": 233,
+    "weight": 33.76,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 532,
+    "from": 239,
+    "to": 233,
+    "weight": 2.9,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 533,
+    "from": 233,
+    "to": 228,
+    "weight": 0.94,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 438,
+    "from": 259,
+    "to": 255,
+    "weight": 17.04,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 439,
+    "from": 252,
+    "to": 241,
+    "weight": 56.57,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 531,
+    "from": 241,
+    "to": 239,
+    "weight": 3.33,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 440,
+    "from": 152,
+    "to": 150,
+    "weight": 3.25,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 442,
+    "from": 150,
+    "to": 144,
+    "weight": 22.35,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 448,
+    "from": 99,
+    "to": 90,
+    "weight": 10.74,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 446,
+    "from": 95,
+    "to": 58,
+    "weight": 6.44,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 451,
+    "from": 95,
+    "to": 90,
+    "weight": 2.08,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 453,
+    "from": 67,
+    "to": 76,
+    "weight": 12.41,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 456,
+    "from": 67,
+    "to": 70,
+    "weight": 6.71,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 454,
+    "from": 76,
+    "to": 82,
+    "weight": 4.75,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 455,
+    "from": 76,
+    "to": 79,
+    "weight": 7.33,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 458,
+    "from": 79,
+    "to": 70,
+    "weight": 11.79,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 459,
+    "from": 79,
+    "to": 88,
+    "weight": 14.04,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 466,
+    "from": 48,
+    "to": 64,
+    "weight": 26.39,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 472,
+    "from": 64,
+    "to": 71,
+    "weight": 18.11,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 467,
+    "from": 92,
+    "to": 71,
+    "weight": 41.24,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 474,
+    "from": 92,
+    "to": 105,
+    "weight": 17.37,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 473,
+    "from": 71,
+    "to": 63,
+    "weight": 4.21,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 468,
+    "from": 112,
+    "to": 105,
+    "weight": 19.53,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 477,
+    "from": 112,
+    "to": 132,
+    "weight": 53.4,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 475,
+    "from": 105,
+    "to": 91,
+    "weight": 5.08,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 482,
+    "from": 232,
+    "to": 237,
+    "weight": 17.56,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 493,
+    "from": 310,
+    "to": 317,
+    "weight": 3.79,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 494,
+    "from": 310,
+    "to": 314,
+    "weight": 12.0,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 487,
+    "from": 322,
+    "to": 317,
+    "weight": 16.71,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 492,
+    "from": 317,
+    "to": 321,
+    "weight": 12.0,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 488,
+    "from": 314,
+    "to": 308,
+    "weight": 17.66,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 495,
+    "from": 314,
+    "to": 321,
+    "weight": 3.79,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 497,
+    "from": 364,
+    "to": 375,
+    "weight": 4.86,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 540,
+    "from": 364,
+    "to": 367,
+    "weight": 14.62,
+    "name": "Abou Sahl Al Kohai Street",
+    "oneway": true
+  },
+  {
+    "id": 518,
+    "from": 320,
+    "to": 294,
+    "weight": 31.2,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 515,
+    "from": 339,
+    "to": 334,
+    "weight": 4.91,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 513,
+    "from": 377,
+    "to": 357,
+    "weight": 27.03,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 510,
+    "from": 355,
+    "to": 359,
+    "weight": 25.27,
+    "name": "Unnamed Street",
+    "oneway": true
+  },
+  {
+    "id": 542,
+    "from": 355,
+    "to": 363,
+    "weight": 10.65,
+    "name": "Al Shahid Mohamed Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 512,
+    "from": 387,
+    "to": 377,
+    "weight": 39.29,
+    "name": "Al Shahid Karim Wagih Seif Street",
+    "oneway": true
+  },
+  {
+    "id": 524,
+    "from": 393,
+    "to": 356,
+    "weight": 155.75,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 525,
+    "from": 356,
+    "to": 349,
+    "weight": 6.47,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  },
+  {
+    "id": 528,
+    "from": 329,
+    "to": 276,
+    "weight": 67.76,
+    "name": "Al Hassn Ibn Ali Street",
+    "oneway": true
+  }
+]
