@@ -1,5 +1,5 @@
 from src.graph import load_geojson_graph
-nodes, graph = load_geojson_graph("data/tagamoa.geojson")
+nodes, graph = load_geojson_graph("data/raw/tagamoa.geojson")
 print(f"Total Nodes: {len(nodes)}")
 print(f"Total Vertices: {len(graph)}")
 street_names = set()
