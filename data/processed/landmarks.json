@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Seven Stars Mall",
+    "name_ar": "سفن ستارز مول - التجمع الخامس",
+    "category": "mall",
+    "lat": 30.0048,
+    "lon": 31.4252,
+    "nearest_node_id": 135,
+    "snap_distance_m": 436.32
+  },
+  {
+    "id": 2,
+    "name": "Silver Star Mall",
+    "name_ar": "سيلفر ستار مول",
+    "category": "mall",
+    "lat": 30.0029,
+    "lon": 31.4239,
+    "nearest_node_id": 135,
+    "snap_distance_m": 190.76
+  },
+  {
+    "id": 3,
+    "name": "Asmak Bahary Restaurant",
+    "name_ar": "مطعم أسماك بحري - التجمع",
+    "category": "restaurant",
+    "lat": 30.0038,
+    "lon": 31.4245,
+    "nearest_node_id": 135,
+    "snap_distance_m": 306.3
+  },
+  {
+    "id": 4,
+    "name": "Gad Restaurant - Fifth Settlement",
+    "name_ar": "مطعم جاد - التجمع الخامس",
+    "category": "restaurant",
+    "lat": 30.0032,
+    "lon": 31.4241,
+    "nearest_node_id": 135,
+    "snap_distance_m": 229.27
+  },
+  {
+    "id": 5,
+    "name": "El Hamd Mosque - Fifth Settlement",
+    "name_ar": "مسجد الحمد - التجمع الخامس",
+    "category": "landmark",
+    "lat": 30.0065,
+    "lon": 31.4228,
+    "nearest_node_id": 215,
+    "snap_distance_m": 471.91
+  },
+  {
+    "id": 6,
+    "name": "Customer Home #1 - Gaafar Al Sadeq",
+    "name_ar": "منزل عميل #1 - شارع جعفر الصادق",
+    "category": "home",
+    "lat": 30.002835,
+    "lon": 31.410128,
+    "nearest_node_id": 181,
+    "snap_distance_m": 0.0
+  },
+  {
+    "id": 7,
+    "name": "Customer Home #2 - Al Motnby St",
+    "name_ar": "منزل عميل #2 - شارع المتنبي",
+    "category": "home",
+    "lat": 30.00216,
+    "lon": 31.409881,
+    "nearest_node_id": 163,
+    "snap_distance_m": 0.0
+  },
+  {
+    "id": 8,
+    "name": "Customer Home #3 - Ibn Al Magdy St",
+    "name_ar": "منزل عميل #3 - شارع ابن المجدي",
+    "category": "home",
+    "lat": 29.996639,
+    "lon": 31.419406,
+    "nearest_node_id": 7,
+    "snap_distance_m": 23.5
+  },
+  {
+    "id": 9,
+    "name": "Customer Home #4 - Al Nobari St",
+    "name_ar": "منزل عميل #4 - شارع النوبري",
+    "category": "home",
+    "lat": 30.000793,
+    "lon": 31.412251,
+    "nearest_node_id": 114,
+    "snap_distance_m": 0.0
+  },
+  {
+    "id": 10,
+    "name": "Customer Home #5 - Sibawayh Elmasry",
+    "name_ar": "منزل عميل #5 - شارع سيبويه المصري",
+    "category": "home",
+    "lat": 30.003309,
+    "lon": 31.413725,
+    "nearest_node_id": 188,
+    "snap_distance_m": 10.93
+  },
+  {
+    "id": 11,
+    "name": "Customer Home #6 - Al Kateb St",
+    "name_ar": "منزل عميل #6 - شارع عبد الحميد الكاتب",
+    "category": "home",
+    "lat": 30.003445,
+    "lon": 31.418354,
+    "nearest_node_id": 199,
+    "snap_distance_m": 30.81
+  }
+]
